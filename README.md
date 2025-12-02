@@ -1,4 +1,4 @@
-### Local Data Insights: Beauty Services in , RO — 2025_08
+### Local Data Insights: Beauty Services in România — 2025_08
 
 <p align="center">
   <img src="img/csv_preview.png" alt="Dataset preview" width="85%">
@@ -39,3 +39,4 @@ Available on **Lemon Squeezy**:
 **Local Data Insights**  
 [localdatainsights@gmail.com](mailto:localdatainsights@gmail.com)  
 Generated automatically on **2025-12-01T15:20:30Z**
+
