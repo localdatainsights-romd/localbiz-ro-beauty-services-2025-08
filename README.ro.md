@@ -1,4 +1,4 @@
-## Local Data Insights: Beauty Services în , RO — 2025_08
+## Local Data Insights: Beauty Services în România — 2025_08
 
 <p align="center">
   <img src="img/csv_preview.png" alt="Previzualizare set de date" width="85%">
@@ -47,3 +47,4 @@ Folosește varianta `.xlsx` sau importă coloanele
 [localdatainsights@gmail.com](mailto:localdatainsights@gmail.com)
 
 > Generat automat la **2025-12-01T15:20:30Z**.
+
